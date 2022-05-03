@@ -1,0 +1,2 @@
+WIDTH, HEIGHT = 640, 480
+FPS = 30
